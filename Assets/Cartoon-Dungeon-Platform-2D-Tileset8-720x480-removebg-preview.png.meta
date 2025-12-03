@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: f0d276502848a23439f90772493ab57b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 272
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcac29589c32594c940dea31efc4785
+      internalID: 968913582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 272
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c81fab11803074383b0d0410f7686b
+      internalID: 1669872226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 272
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba44b33d711a9cc43a0302194c5e0a0d
+      internalID: 1891970427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 272
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be15ff98e628643b5fd9f52bbfba3c
+      internalID: -991607767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 294
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524a6c2700f4394e876e26b652aad8f
+      internalID: -1504975110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 291
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5977aad8e9959454f914e619cad5b26e
+      internalID: 537799168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 221
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5fafab9b9e59240888d68db88a9db7
+      internalID: -1166431148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38fe890333d3644291056125b60b9da
+      internalID: -1286262888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 215
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30808b7406133d40a5617f2ed8ffbee
+      internalID: 2002742156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 215
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3f3139890677f468019634af6f5d6e
+      internalID: 1194541686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 223
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13064ae4c23201f42851cef82930a1da
+      internalID: -1568679935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 223
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae16c1122b75e4a9ed9e7380e473a7
+      internalID: -1796777208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 236
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf99848859719479914ecfa77b80e9
+      internalID: -1197106865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 122
+        width: 136
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2409b474083f905448ead054b0c24ef5
+      internalID: -879792747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 173
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7cf7cb9b067d4f8e826a5863e8d9f
+      internalID: -742666525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 172
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194879a1766d65543809c5111afe3a6a
+      internalID: 2004531228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 173
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce4482ec2865814db36e9d4977ebafe
+      internalID: 226938559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 173
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe62127ed9ccb54b89c77a5cf260caa
+      internalID: 2058839256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 174
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a650308de00aee14594a9d117e363aef
+      internalID: -1603541326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 182
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627df0b478e6baf419dd0e9fc9aed342
+      internalID: 564187112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 75
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5e8fe298374b439a40282ac341acc
+      internalID: -241468161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 75
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52c1f5365d34ee4e8f2ea9a75880ea1
+      internalID: -1503147503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0480805fd268e74d8d076a828c3d46d
+      internalID: 883990651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 134
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d308bee20b6304fb140b489b365e99
+      internalID: -389198346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5213835c596fae448e42ec563d3daec
+      internalID: -733636846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 74
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c1628c4759d647b76568f0c5e94a1
+      internalID: 2049686014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 75
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c7651da931b04c84e1fd7609d4258
+      internalID: 291000682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 74
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7697fa5a3cff1f46b41f0684b13e1ab
+      internalID: -182636004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 75
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7bb60ca02a61f4095186693978411f
+      internalID: -41374874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_15: 2004531228
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_3: -991607767
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_21: -1503147503
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_10: -1568679935
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_13: -879792747
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_4: -1504975110
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_27: -182636004
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_8: 2002742156
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_19: 564187112
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_25: 2049686014
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_22: 883990651
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_6: -1166431148
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_24: -733636846
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_1: 1669872226
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_28: -41374874
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_17: 2058839256
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_0: 968913582
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_14: -742666525
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_5: 537799168
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_12: -1197106865
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_7: -1286262888
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_20: -241468161
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_16: 226938559
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_11: -1796777208
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_26: 291000682
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_9: 1194541686
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_18: -1603541326
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_23: -389198346
+      Cartoon-Dungeon-Platform-2D-Tileset8-720x480-removebg-preview_2: 1891970427
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

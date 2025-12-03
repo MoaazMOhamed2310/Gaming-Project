@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: becd4d0b2d293f24ab114b99d61ee7a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire-Pixel-Art-Animation-Sprites2-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 350
+        width: 295
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f905e34111282b144a2ffc7153ffa1cf
+      internalID: -1360667629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-Pixel-Art-Animation-Sprites2-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 300
+        width: 298
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c70e4f1c5fdca409c0f17105bf293a
+      internalID: 43082297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-Pixel-Art-Animation-Sprites2-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 251
+        width: 294
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24045ceb754aa6a449bdc4db8768e9e5
+      internalID: 544247905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-Pixel-Art-Animation-Sprites2-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 204
+        width: 291
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a2c7259369c804dad0990ce08719bf
+      internalID: 954724102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_88: -1429369081
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_37: 2028219943
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_80: 1126061567
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_86: 642630427
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_82: -1808743019
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_14: -1808570553
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_31: 1744241518
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_95: -1123880684
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_100: -1162288542
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_11: 773297954
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_15: 421260118
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_3: -1518606091
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_33: -134386553
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_43: -60930319
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_72: -2117672100
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_101: 642850332
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_73: 1179937484
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_75: 2056673725
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_2: 2054299879
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_87: -353747741
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_48: 1455297396
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_25: -423741410
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_94: -758126559
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_89: -261341759
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_0: -1282229606
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_59: -2051995341
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_69: -1948126224
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_53: -141163405
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_42: -23805435
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_70: -878816627
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_16: 471643939
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_10: -1429099234
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_77: -310588846
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_60: 1075307457
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_17: 668155436
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_57: 954724102
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_62: -363871415
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_79: 365222339
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_24: 399047815
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_51: -1257362249
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_83: 927375185
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_34: 1003116138
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_67: 1568680927
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_27: 262449624
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_29: 1186001610
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_5: -1723856381
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_23: -1996231592
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_4: 16061303
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_36: -1984520732
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_65: -1320185889
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_74: 164006250
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_92: -619350947
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_49: -312813753
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_99: 1812075432
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_98: 23568979
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_35: 544247905
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_38: -785251815
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_71: -1579276041
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_81: -2098149305
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_28: 420877555
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_78: -1738210385
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_39: 110124472
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_68: 586242815
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_61: 1608187508
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_63: -1821776519
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_97: -120259323
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_44: -174425555
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_9: 1638406393
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_32: 1059724655
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_64: -619052472
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_21: 1408558684
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_96: 2044021861
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_103: 434755317
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_46: 1996875757
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_19: 43082297
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_1: -1157954440
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_55: 859202623
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_6: -408253323
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_12: -1764971546
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_50: -48914232
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_66: -1949928733
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_8: -1360667629
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_58: -611770720
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_91: 821229640
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_30: -2022468894
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_47: -1534688276
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_18: 1819278777
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_20: -475649303
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_85: 794364900
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_102: -723463884
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_13: 2018065404
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_7: -1854011115
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_90: 696856718
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_41: -1003571632
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_54: 244631486
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_26: 529415976
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_40: 1195691092
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_45: 1280399844
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_76: 1732343733
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_84: -1304617381
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_56: 1420000558
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_22: -805919323
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_52: -1867894815
+      Fire-Pixel-Art-Animation-Sprites2-removebg-preview_93: -481493523
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

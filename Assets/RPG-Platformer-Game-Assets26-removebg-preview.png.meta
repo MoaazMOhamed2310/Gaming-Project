@@ -1,0 +1,1619 @@
+fileFormatVersion: 2
+guid: e012d0b580616dc49b947982b0e9df35
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 311
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290b95ef744bb2c4daec1a979acf79a9
+      internalID: 1817462973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 311
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cd591df81438043b4f816f8847ec6f
+      internalID: 1906650115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 311
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd4f5b1c16500d49bbfc7241df84e86
+      internalID: -2061753218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 346
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac19242e9b55ef3419bf4f10cffaf6fb
+      internalID: -170289366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 301
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f94eee1dbe13654eaa085a4fd635d4a
+      internalID: 1807982954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 346
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65895df10c45ca40a4f1618c3d69235
+      internalID: 31209474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 364
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15badc4c0b0fdeb43b74c0dbea38bcbf
+      internalID: -1364690788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 349
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a132eb762d24f7459c1d996c229ea6f
+      internalID: 275116041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 350
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60c170d78c8dd641b0dcdfc64cf35a3
+      internalID: 289705059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 363
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17453ba9e0a0978438ba51a9d4e1e813
+      internalID: -999577911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 363
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad6dfd1b08850479a8fe57211378e1
+      internalID: 392973868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 363
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9156973350f9345bb176958bb40ace
+      internalID: 672565087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 347
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd0196d6a6d91d4697e8ec845ee8ad1
+      internalID: 1630504071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 349
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050c8b227d110a343a1ea264081e7ee9
+      internalID: 1974084440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 349
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da92bfd72ac86464da6f3b02e373e1c8
+      internalID: -1386437404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 348
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dacdb662e729ff489cfd94f9e7290ab
+      internalID: 313613227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 311
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3d24f6d477bd41a30fc3d698c4f93
+      internalID: -76683454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 313
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829b69a92b8c88e4f8a7ca27164235ea
+      internalID: -1554752200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 311
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4276c0c661b9504a9ae8a0653d38bbb
+      internalID: -1541565117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 312
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f11e3460806d4147bd28d94f64f3d1f
+      internalID: -1084049225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 312
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef71515bb920348a603f246cd6a458
+      internalID: -533467611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b507ad0db9b607441abfb00035df56e4
+      internalID: -126304062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 311
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61744a64f1f71f54098cb0ba3367a1a4
+      internalID: 1358452170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 275
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd837dd3318a824495711fd36108a82
+      internalID: 63197793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d111340f82f0144873b5e69035ccf1
+      internalID: -221072729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 276
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0d78816159027408ae8fd00378108e
+      internalID: -2104987901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 277
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c82ec503a614f408d2292ddfc2668a
+      internalID: 2134548681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 275
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f3d77d5299f941b884d7704a31295
+      internalID: 1886654692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 219
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79fbfe7f443e334db9f8e0a9c536948
+      internalID: -1910506275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 275
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2904fe400016f094a8639f75e2394e67
+      internalID: -950070298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 275
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874dc373719b1e4a825ef8030828e95
+      internalID: -677125479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 275
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91da3c93792644cb5f42a5271b60f3
+      internalID: 1167226249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 275
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631959586fee9134aa8299ceb6fc1750
+      internalID: -2016889999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 275
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed71977783936a84880601f4d3eb29b0
+      internalID: 365657131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 275
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a62b04476e9b848b46310b3208f99e
+      internalID: 757830058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 206
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271024020d0f605498e77daa2a7043fd
+      internalID: 1337749821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 206
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0c39c0a1955e94d881c3185c0b02d2
+      internalID: -354666353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 206
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcc9812a49bcc41bd76abe279b7850
+      internalID: 573547393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 239
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf9d626fc9fec4bb745ee8bb0ae594
+      internalID: 938594698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 239
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2772cfe686db6a47a3ca70a5515a8e2
+      internalID: -1727899681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 239
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059623c832375b64da19bfcd1e030f5c
+      internalID: -1476728685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 239
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e01e8e53f9ef84da196d6314a900b6
+      internalID: 1373983483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 239
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4638a4ac0c2f4fb797470a291fb11
+      internalID: -2024334981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 239
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ddf682df57cbd4e9efcc08156623d5
+      internalID: -723550862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 204
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df9c386655cf614e86f70c15cf3cda9
+      internalID: 2059896555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 205
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19027637648cbc49867f667e7580e28
+      internalID: -896922525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 204
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb06b94464f91459802febfaa84057
+      internalID: -1592724958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 204
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b0a64915e7ef46b4604b734bd88e9
+      internalID: 1357703926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 204
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb710c99993ae8544a9150a5fc1cb8a0
+      internalID: -757044124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 204
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27f937c568ab342934e61459a2ee90
+      internalID: 1584574431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 145
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11603a37f9c7c9e489570d40f979c7b6
+      internalID: -841223995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d406feeba7fa7469ca27c07ba06bb0
+      internalID: 1559545224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 145
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6e5cecb398b047b5eff6b3b5bda07
+      internalID: 1053241941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f9c7de0f557314ca67efa83317fa63
+      internalID: 837898039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 146
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17372fdbb1e0194a9d8e48da8bd8054
+      internalID: 35145034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 168
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af644ab71f7a8c4db72c27fef6d99b2
+      internalID: 1845549932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 168
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7303b2ea1f3374f8b93a08e2fa4b85
+      internalID: -197980002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 168
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2289db10d20f02429d2b8dfcdca0396
+      internalID: -1885223779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 169
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a89984f1b7a7944da6df64b331504ea
+      internalID: 372881283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 168
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4428aa63cfaa4f8dcfca2dbf700d1
+      internalID: -846914432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 168
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789e550a93eab134281a38a98f2713b3
+      internalID: -1665633568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 145
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a0d33a16c45c459978f2f9879f883
+      internalID: -1518291500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 145
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a730ecbfffeb44ad20fb0c72739d7
+      internalID: 464061044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 145
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822a542db2dbb2448a7418734894d77
+      internalID: 969954262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 146
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d15d2c9eaab03e4e8086d5563450542
+      internalID: -1090566722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 146
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c741b1b67ad41499fc047e943ce9e8
+      internalID: -1325154363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 28
+        width: 173
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c36f37ab435344934f01b863209ae
+      internalID: 417196978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG-Platformer-Game-Assets26-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 28
+        width: 172
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b4c600476fe304184d8e61ee8422ae
+      internalID: 268556100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RPG-Platformer-Game-Assets26-removebg-preview_60: -1665633568
+      RPG-Platformer-Game-Assets26-removebg-preview_39: -1727899681
+      RPG-Platformer-Game-Assets26-removebg-preview_56: -197980002
+      RPG-Platformer-Game-Assets26-removebg-preview_49: 1584574431
+      RPG-Platformer-Game-Assets26-removebg-preview_32: -2016889999
+      RPG-Platformer-Game-Assets26-removebg-preview_0: 1817462973
+      RPG-Platformer-Game-Assets26-removebg-preview_13: 1974084440
+      RPG-Platformer-Game-Assets26-removebg-preview_26: 2134548681
+      RPG-Platformer-Game-Assets26-removebg-preview_67: 268556100
+      RPG-Platformer-Game-Assets26-removebg-preview_23: 63197793
+      RPG-Platformer-Game-Assets26-removebg-preview_3: -170289366
+      RPG-Platformer-Game-Assets26-removebg-preview_6: -1364690788
+      RPG-Platformer-Game-Assets26-removebg-preview_19: -1084049225
+      RPG-Platformer-Game-Assets26-removebg-preview_4: 1807982954
+      RPG-Platformer-Game-Assets26-removebg-preview_22: 1358452170
+      RPG-Platformer-Game-Assets26-removebg-preview_21: -126304062
+      RPG-Platformer-Game-Assets26-removebg-preview_29: -950070298
+      RPG-Platformer-Game-Assets26-removebg-preview_18: -1541565117
+      RPG-Platformer-Game-Assets26-removebg-preview_47: 1357703926
+      RPG-Platformer-Game-Assets26-removebg-preview_66: 417196978
+      RPG-Platformer-Game-Assets26-removebg-preview_17: -1554752200
+      RPG-Platformer-Game-Assets26-removebg-preview_9: -999577911
+      RPG-Platformer-Game-Assets26-removebg-preview_34: 757830058
+      RPG-Platformer-Game-Assets26-removebg-preview_20: -533467611
+      RPG-Platformer-Game-Assets26-removebg-preview_43: -723550862
+      RPG-Platformer-Game-Assets26-removebg-preview_5: 31209474
+      RPG-Platformer-Game-Assets26-removebg-preview_7: 275116041
+      RPG-Platformer-Game-Assets26-removebg-preview_10: 392973868
+      RPG-Platformer-Game-Assets26-removebg-preview_54: 35145034
+      RPG-Platformer-Game-Assets26-removebg-preview_12: 1630504071
+      RPG-Platformer-Game-Assets26-removebg-preview_57: -1885223779
+      RPG-Platformer-Game-Assets26-removebg-preview_31: 1167226249
+      RPG-Platformer-Game-Assets26-removebg-preview_38: 938594698
+      RPG-Platformer-Game-Assets26-removebg-preview_65: -1325154363
+      RPG-Platformer-Game-Assets26-removebg-preview_28: -1910506275
+      RPG-Platformer-Game-Assets26-removebg-preview_51: 1559545224
+      RPG-Platformer-Game-Assets26-removebg-preview_40: -1476728685
+      RPG-Platformer-Game-Assets26-removebg-preview_25: -2104987901
+      RPG-Platformer-Game-Assets26-removebg-preview_52: 1053241941
+      RPG-Platformer-Game-Assets26-removebg-preview_16: -76683454
+      RPG-Platformer-Game-Assets26-removebg-preview_14: -1386437404
+      RPG-Platformer-Game-Assets26-removebg-preview_2: -2061753218
+      RPG-Platformer-Game-Assets26-removebg-preview_41: 1373983483
+      RPG-Platformer-Game-Assets26-removebg-preview_46: -1592724958
+      RPG-Platformer-Game-Assets26-removebg-preview_61: -1518291500
+      RPG-Platformer-Game-Assets26-removebg-preview_36: -354666353
+      RPG-Platformer-Game-Assets26-removebg-preview_53: 837898039
+      RPG-Platformer-Game-Assets26-removebg-preview_48: -757044124
+      RPG-Platformer-Game-Assets26-removebg-preview_37: 573547393
+      RPG-Platformer-Game-Assets26-removebg-preview_45: -896922525
+      RPG-Platformer-Game-Assets26-removebg-preview_33: 365657131
+      RPG-Platformer-Game-Assets26-removebg-preview_50: -841223995
+      RPG-Platformer-Game-Assets26-removebg-preview_8: 289705059
+      RPG-Platformer-Game-Assets26-removebg-preview_11: 672565087
+      RPG-Platformer-Game-Assets26-removebg-preview_35: 1337749821
+      RPG-Platformer-Game-Assets26-removebg-preview_44: 2059896555
+      RPG-Platformer-Game-Assets26-removebg-preview_30: -677125479
+      RPG-Platformer-Game-Assets26-removebg-preview_59: -846914432
+      RPG-Platformer-Game-Assets26-removebg-preview_64: -1090566722
+      RPG-Platformer-Game-Assets26-removebg-preview_27: 1886654692
+      RPG-Platformer-Game-Assets26-removebg-preview_63: 969954262
+      RPG-Platformer-Game-Assets26-removebg-preview_62: 464061044
+      RPG-Platformer-Game-Assets26-removebg-preview_15: 313613227
+      RPG-Platformer-Game-Assets26-removebg-preview_42: -2024334981
+      RPG-Platformer-Game-Assets26-removebg-preview_55: 1845549932
+      RPG-Platformer-Game-Assets26-removebg-preview_58: 372881283
+      RPG-Platformer-Game-Assets26-removebg-preview_24: -221072729
+      RPG-Platformer-Game-Assets26-removebg-preview_1: 1906650115
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 0ce08c1e55e9b35449707b9e74442839
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1290
+        width: 92
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2717e0426cbc5745b11a7dedabcffa1
+      internalID: 2104147548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1290
+        width: 92
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76deddc7287edc47b8b2c4ce0413faf
+      internalID: -614407306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1290
+        width: 92
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8001d97f99949434db50448eba118700
+      internalID: 2137470635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1289
+        width: 92
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac42884812c1dff4282951bf8e2c50e9
+      internalID: -782771927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1289
+        width: 92
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc0609b6106e154aaf58678841b7873
+      internalID: -888442898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1290
+        width: 91
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbae6e9b29dea754b83e284a6a1017f1
+      internalID: 280458300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1032
+        width: 91
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d47a3051b0dc04f9ce0677c5e0be5d
+      internalID: 1257026116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1032
+        width: 91
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ef09c403ad9c3458168e09b95d7d7a
+      internalID: -188035651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1032
+        width: 91
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baec3f7d582d484a953827bbb442cef
+      internalID: -1210437566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1032
+        width: 91
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab940b620544c35488161923779770f9
+      internalID: 850789629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1032
+        width: 92
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20f58e70fb581b40ba1775b467f641e
+      internalID: -64740318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1032
+        width: 92
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d69bc40c862544dadbfa1867c9d7a6
+      internalID: -1913419582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 774
+        width: 92
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab0fb86f200e846b45a3b0b947e380
+      internalID: 638759049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 774
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1b3c60fb04bd842afedbf6b52fe5fa
+      internalID: 172555634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 774
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad8ea093eb85642b0f94703bad7157
+      internalID: 1267825072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 774
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd8241f358711e4aafeed02af602ace
+      internalID: 2071194328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 774
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed41c316901954eba509224f09069d
+      internalID: -1564650396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_17
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 774
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744f05b7f8c5e834fb461830d3d278c9
+      internalID: -1718459582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 516
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e027caee95fe740bc85bd94f97cf57
+      internalID: -1218885452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 516
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce0dc5ec5e7a72408d68ae0ea7059e5
+      internalID: 1407087871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 516
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020eeaa06bbf3954695e6eb799539527
+      internalID: 959842929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 516
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a64665c246d6409070bb56b292baa
+      internalID: -383903500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 516
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e61f36bf92d942905fef9877924a2
+      internalID: 1766178795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_23
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 516
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ef7ba68f753346b2ace1130b34921
+      internalID: -788258498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd7828e139f3a14dbc69b42d2166acd
+      internalID: -1977608232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6a737961ebc2748b55e8c073ee56f4
+      internalID: 287540837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e193df3150cdc489833e802db3cd0b
+      internalID: 1814548121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69700a081569744bac33ce278ea4365
+      internalID: 139051257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 258
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0c871f5ff20a6409d356f2c63704b3
+      internalID: -402931862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 257
+        width: 92
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee2838061c688d4e94732ffb0d1f62b
+      internalID: -1586382777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 92
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d5d9a8ab299bd4ca98d46db17e2adc
+      internalID: -2082859202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 91
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dc7907c9c651b49bae290a5dc754a5
+      internalID: 1927798698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 91
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f15c24530daf464cb3e2943fc1ffec9
+      internalID: 986555668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 92
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2ef7ff61f566d41bdd6ae4e2d9465f
+      internalID: -508721491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_34
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 92
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25433a85a3bddf49883d4fc5640b543
+      internalID: 324528234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_35
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 92
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7669118135cc6f4ca85ba42263ebb89
+      internalID: 146562579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_6: 1257026116
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_27: 139051257
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_29: -1586382777
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_0: 2104147548
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_5: 280458300
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_21: -383903500
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_18: -1218885452
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_17: -1718459582
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_16: -1564650396
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_20: 959842929
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_22: 1766178795
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_15: 2071194328
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_1: -614407306
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_10: -64740318
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_8: -1210437566
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_25: 287540837
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_28: -402931862
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_32: 986555668
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_13: 172555634
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_4: -888442898
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_23: -788258498
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_2: 2137470635
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_24: -1977608232
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_33: -508721491
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_30: -2082859202
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_12: 638759049
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_11: -1913419582
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_31: 1927798698
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_34: 324528234
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_19: 1407087871
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_14: 1267825072
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_7: -188035651
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_26: 1814548121
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_9: 850789629
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_35: 146562579
+      Change-the-subject-to-an-idle-pose-facing-right-ar-256px-36_3: -782771927
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
