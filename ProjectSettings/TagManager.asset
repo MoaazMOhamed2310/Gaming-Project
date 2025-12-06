@@ -95,3 +95,6 @@ TagManager:
   - name: Player
     uniqueID: 635134827
     locked: 0
+  - name: moneysafe
+    uniqueID: 3284297595
+    locked: 0
