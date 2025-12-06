@@ -11,6 +11,10 @@ public class LevelManager : MonoBehaviour
     {
         CurrentCheckpoint=null;
     }
+public void SetCheckpoint(GameObject checkpoint)
+{
+    CurrentCheckpoint = checkpoint;
+}
 
     // Update is called once per frame
     void Update()
@@ -18,7 +22,7 @@ public class LevelManager : MonoBehaviour
         
     }
     public void RespawnPlayer(){
-        FindObjectOfType<PlayerController>().transform.position=CurrentCheckpoint.transform.position;
+        FindObjectOfType<na5no5>().transform.position=CurrentCheckpoint.transform.position;
     }
    
 }

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 04e5c7d3321a7a547a73b1d4f2fe7934
+guid: 8dee29142afb97e4ea950a78b632adda
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_0
+      name: Batota_0
       rect:
         serializedVersion: 2
-        x: 35
-        y: 1334
-        width: 251
-        height: 259
+        x: 4
+        y: 1360
+        width: 241
+        height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,187 +119,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b6f23b86e2ec9845b63eacd4df8db84
-      internalID: 587313121
+      spriteID: a07e2cda246ad8e4484e7a725ad64830
+      internalID: -1340417071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_1
+      name: Batota_1
       rect:
         serializedVersion: 2
-        x: 355
-        y: 1334
-        width: 247
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 903ae7bb1df38154294e33b25f555ebb
-      internalID: -1135963269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_2
-      rect:
-        serializedVersion: 2
-        x: 678
-        y: 1334
-        width: 240
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ff31de6f4b5cba4f81d12af75aa7f18
-      internalID: 1512422684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_3
-      rect:
-        serializedVersion: 2
-        x: 997
-        y: 1333
-        width: 237
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6287777b7428cb945ba926df8abadd80
-      internalID: -465027192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_4
-      rect:
-        serializedVersion: 2
-        x: 1319
-        y: 1333
-        width: 235
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9727ba93a3116d408099d3e6dbdcd50
-      internalID: -476581878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_5
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 1333
-        width: 228
-        height: 261
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf51685f9d718c74396a8ea2ed5e4fc5
-      internalID: -154454844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_6
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 1067
-        width: 224
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75728afae68f1864c976002cffed4968
-      internalID: -907017146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_7
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 1066
-        width: 224
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03b8afc06064419419effdee6c0a1e53
-      internalID: -1096886299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_8
-      rect:
-        serializedVersion: 2
-        x: 687
-        y: 1066
-        width: 222
-        height: 255
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 823c9fdb235708544bdaa9d71659b489
-      internalID: -935627281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_9
-      rect:
-        serializedVersion: 2
-        x: 1006
-        y: 1066
-        width: 224
+        x: 252
+        y: 1360
+        width: 241
         height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -308,41 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68126a111e52b7c46832dfbfa160fd64
-      internalID: 1088140475
+      spriteID: b8efd04e44afe5747949d864e8e6d15f
+      internalID: -394150922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_10
+      name: Batota_2
       rect:
         serializedVersion: 2
-        x: 1323
-        y: 1066
-        width: 234
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c181381fa0fae1846a0e0163e3488a6f
-      internalID: 1133486294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_11
-      rect:
-        serializedVersion: 2
-        x: 1642
-        y: 1066
+        x: 502
+        y: 1356
         width: 239
-        height: 245
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41653a291db77714099bca8389cd3604
-      internalID: 922125525
+      spriteID: a92eea0a54f8744428c67bc472030202
+      internalID: 2036337458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_12
+      name: Batota_3
       rect:
         serializedVersion: 2
-        x: 43
-        y: 802
+        x: 748
+        y: 1352
         width: 239
-        height: 243
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,124 +182,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1b2fa3bf57df7949b03a7d18659b274
-      internalID: 598716617
+      spriteID: 4a00a6431e81bc547b0e8370e67988ab
+      internalID: 186408992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_13
+      name: Batota_4
       rect:
         serializedVersion: 2
-        x: 363
-        y: 801
-        width: 235
-        height: 245
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cffdcf251c079cd489705e1e92232128
-      internalID: 1357699668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_14
-      rect:
-        serializedVersion: 2
-        x: 683
-        y: 802
-        width: 235
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 990e5528afe99494a85b07f78d644e1c
-      internalID: 1196181053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_15
-      rect:
-        serializedVersion: 2
-        x: 1002
-        y: 802
-        width: 232
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f1bdea2ed307764ba941f6d1cfba973
-      internalID: 1879615392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_16
-      rect:
-        serializedVersion: 2
-        x: 1323
-        y: 802
-        width: 230
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: febab938633c2d24d82555e62b448643
-      internalID: 194563166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_17
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 802
-        width: 235
-        height: 252
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7084e4fa96f7a9941848111fa267c5c3
-      internalID: 1216350885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_18
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 534
-        width: 239
+        x: 993
+        y: 1350
+        width: 240
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -497,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f80d6549dd52c7489822b04b1e9e29b
-      internalID: 1969790450
+      spriteID: 5152e6470b910e7469a3332261306d12
+      internalID: -1807204887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_19
+      name: Batota_5
       rect:
         serializedVersion: 2
-        x: 363
-        y: 534
-        width: 242
-        height: 255
+        x: 1240
+        y: 1350
+        width: 240
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,40 +224,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 140770527e1fd73459ef099f4823810d
-      internalID: 1388721487
+      spriteID: 5538ac1a0f7a2f04ba4252a733be4efc
+      internalID: 135269629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_20
+      name: Batota_6
       rect:
         serializedVersion: 2
-        x: 683
-        y: 534
-        width: 247
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87d3540dbceea994094a3c7f780ffcc0
-      internalID: -591395204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_21
-      rect:
-        serializedVersion: 2
-        x: 1003
-        y: 534
-        width: 258
+        x: 5
+        y: 1080
+        width: 240
         height: 260
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -560,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22598fce108e8d94f8b66020a8c52f0d
-      internalID: 1732929082
+      spriteID: f52ce7d6c76aff341bdb95874cce98ad
+      internalID: 983027182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_22
+      name: Batota_7
       rect:
         serializedVersion: 2
-        x: 1322
-        y: 534
-        width: 260
-        height: 259
+        x: 253
+        y: 1080
+        width: 241
+        height: 261
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,19 +266,103 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d429533d6de16be48bdb33e19e4092d8
-      internalID: -1943486106
+      spriteID: 629dc346f206daf4c84199c3442cb303
+      internalID: 697945865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_23
+      name: Batota_8
       rect:
         serializedVersion: 2
-        x: 1641
-        y: 534
-        width: 265
+        x: 499
+        y: 1080
+        width: 242
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182517fda224d0249b8fc871b8d6aab5
+      internalID: -1547068079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_9
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1080
+        width: 242
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3af67a4d798234896b9407d2f79d74
+      internalID: 1174665405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_10
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1080
+        width: 243
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a10dcfda5522418a4e890d3b4c604
+      internalID: -143302749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_11
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1080
+        width: 243
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8566fdfedda18af4d85b418635bb214a
+      internalID: 1205397039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 811
+        width: 243
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -602,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6672b48c2a95d084c95935db25fcb4e7
-      internalID: 1289235922
+      spriteID: 4db204f0644a41243bfd5cdb8de48afd
+      internalID: -708780979
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_24
+      name: Batota_13
       rect:
         serializedVersion: 2
-        x: 43
-        y: 270
-        width: 268
-        height: 252
+        x: 248
+        y: 811
+        width: 243
+        height: 254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -623,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5144a607a92eb594f9cae5d3dc280868
-      internalID: -1719524195
+      spriteID: a7f2f963f531c4044bcb997c33b310dd
+      internalID: 1861995050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_25
+      name: Batota_14
       rect:
         serializedVersion: 2
-        x: 366
-        y: 270
-        width: 268
-        height: 251
+        x: 494
+        y: 812
+        width: 244
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -644,19 +413,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f763086b139d9bf46a97c588535647ce
-      internalID: 124333945
+      spriteID: b4621ca24026f5041a9f9f86248d73d5
+      internalID: 879870548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_26
+      name: Batota_15
       rect:
         serializedVersion: 2
-        x: 686
-        y: 269
-        width: 272
+        x: 741
+        y: 818
+        width: 243
         height: 249
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -665,20 +434,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16937adcdb7ee264fa857f0258207a07
-      internalID: -1671373514
+      spriteID: dfb419f23cc5d6b45a1fd7bb86cc4906
+      internalID: -456976157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_27
+      name: Batota_16
       rect:
         serializedVersion: 2
-        x: 1002
-        y: 270
-        width: 276
-        height: 244
+        x: 990
+        y: 820
+        width: 242
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -686,20 +455,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e069de0363ba88747a710c2d38957ad8
-      internalID: -1211315976
+      spriteID: 5f645f7afd0c4754b9aae4e747c4b628
+      internalID: 509990813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_28
+      name: Batota_17
       rect:
         serializedVersion: 2
-        x: 1318
-        y: 269
-        width: 281
-        height: 246
+        x: 1238
+        y: 821
+        width: 241
+        height: 251
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -707,20 +476,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52360fdbfee4c5248ac445045af47b3b
-      internalID: 1890841763
+      spriteID: 4d5017e1296ddac428b3d63502691952
+      internalID: -293647860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_29
+      name: Batota_18
       rect:
         serializedVersion: 2
-        x: 1634
-        y: 269
-        width: 284
-        height: 244
+        x: 5
+        y: 553
+        width: 241
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5cb3885eaefe1f14a85763a43ea6eee3
-      internalID: 256585538
+      spriteID: 227143455dd0fcd4bba237e1ac22c7db
+      internalID: -838462094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_30
+      name: Batota_19
       rect:
         serializedVersion: 2
-        x: 26
-        y: 2
-        width: 284
-        height: 248
+        x: 254
+        y: 553
+        width: 240
+        height: 254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,20 +518,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d78c8f6d40f0e3548af1f21fd32284ec
-      internalID: 323410784
+      spriteID: c09b842297fbea645862651c3c118e8b
+      internalID: 637654679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_31
+      name: Batota_20
       rect:
         serializedVersion: 2
-        x: 342
-        y: 2
-        width: 284
-        height: 252
+        x: 502
+        y: 553
+        width: 239
+        height: 254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,20 +539,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 404f4cf43f3af2841a631ee265a8a642
-      internalID: -360405340
+      spriteID: 5e83cae8beeaf444898f341f82380860
+      internalID: 369745722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_32
+      name: Batota_21
       rect:
         serializedVersion: 2
-        x: 662
-        y: 2
-        width: 281
-        height: 252
+        x: 748
+        y: 544
+        width: 240
+        height: 258
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,19 +560,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1abe6e9050d425b41b204833e41ed459
-      internalID: -1572670933
+      spriteID: 35d88c2416c96874faaa25086b76f30e
+      internalID: 902916747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_33
+      name: Batota_22
       rect:
         serializedVersion: 2
-        x: 986
-        y: 2
-        width: 271
+        x: 993
+        y: 543
+        width: 240
         height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -812,20 +581,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b14c220e0f6e0f41bda865adff14f91
-      internalID: -1420263842
+      spriteID: 18d6692ad0a164147a5f7f517866b80f
+      internalID: 1866568316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_34
+      name: Batota_23
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 2
-        width: 263
-        height: 256
+        x: 1240
+        y: 542
+        width: 240
+        height: 257
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -833,19 +602,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a040fa99fd47e784fa22b8b387436e8b
-      internalID: -1326171674
+      spriteID: e5e4c4b138f4dd64597819723513a1e6
+      internalID: 939055319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_35
+      name: Batota_24
       rect:
         serializedVersion: 2
-        x: 1634
-        y: 2
-        width: 252
+        x: 5
+        y: 273
+        width: 241
         height: 260
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -854,8 +623,239 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e738302e3e4f1046a9724e0bb137e96
-      internalID: 669101967
+      spriteID: d7bc694799757174aa93ebf705f0a73d
+      internalID: 1782581938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 273
+        width: 241
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c405e51924c52624ea47b08fe0042647
+      internalID: 1588263558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 273
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e761bb50dfa734386d8931a2f5c8c6
+      internalID: -728887531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_27
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 273
+        width: 242
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92082f80de2324a9fbf507fc76a658
+      internalID: -232745123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_28
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 273
+        width: 243
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f3cfb213977545b7969632656c26f
+      internalID: 1600622939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_29
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 273
+        width: 244
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a006fafdc21ea843b8bd3a4cacf76b0
+      internalID: -912748667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68cf0045775c9b49a8ac2176653fd70
+      internalID: -126798887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4
+        width: 244
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa35ad48bee9d34982db30dfebde024
+      internalID: 1353319810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_32
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 5
+        width: 242
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d80321d98e18f545a91dad12f199e3b
+      internalID: -136900178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_33
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 12
+        width: 242
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ad56da5fc3a348accc8d70762a03e
+      internalID: 1558416057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_34
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 13
+        width: 242
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a6692ccdb9fd140ac0228a6725c3a7
+      internalID: 1731261683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batota_35
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 14
+        width: 241
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25b71730a54fc489fef07dc685947d
+      internalID: 1833457874
       vertices: []
       indices: 
       edges: []
@@ -871,42 +871,42 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_11: 922125525
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_3: -465027192
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_1: -1135963269
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_5: -154454844
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_22: -1943486106
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_26: -1671373514
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_0: 587313121
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_28: 1890841763
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_14: 1196181053
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_9: 1088140475
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_33: -1420263842
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_7: -1096886299
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_16: 194563166
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_13: 1357699668
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_21: 1732929082
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_20: -591395204
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_2: 1512422684
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_10: 1133486294
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_29: 256585538
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_12: 598716617
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_18: 1969790450
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_23: 1289235922
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_8: -935627281
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_19: 1388721487
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_30: 323410784
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_6: -907017146
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_15: 1879615392
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_17: 1216350885
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_31: -360405340
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_32: -1572670933
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_34: -1326171674
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_4: -476581878
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_35: 669101967
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_27: -1211315976
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_24: -1719524195
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_25: 124333945
+      Batota_31: 1353319810
+      Batota_9: 1174665405
+      Batota_28: 1600622939
+      Batota_0: -1340417071
+      Batota_4: -1807204887
+      Batota_25: 1588263558
+      Batota_19: 637654679
+      Batota_12: -708780979
+      Batota_1: -394150922
+      Batota_13: 1861995050
+      Batota_22: 1866568316
+      Batota_7: 697945865
+      Batota_24: 1782581938
+      Batota_11: 1205397039
+      Batota_20: 369745722
+      Batota_32: -136900178
+      Batota_30: -126798887
+      Batota_34: 1731261683
+      Batota_33: 1558416057
+      Batota_14: 879870548
+      Batota_35: 1833457874
+      Batota_6: 983027182
+      Batota_26: -728887531
+      Batota_17: -293647860
+      Batota_21: 902916747
+      Batota_16: 509990813
+      Batota_15: -456976157
+      Batota_23: 939055319
+      Batota_8: -1547068079
+      Batota_27: -232745123
+      Batota_2: 2036337458
+      Batota_18: -838462094
+      Batota_5: 135269629
+      Batota_10: -143302749
+      Batota_3: 186408992
+      Batota_29: -912748667
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

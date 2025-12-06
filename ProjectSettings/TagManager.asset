@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -97,4 +98,10 @@ TagManager:
     locked: 0
   - name: moneysafe
     uniqueID: 3284297595
+    locked: 0
+  - name: Enemy
+    uniqueID: 2493142569
+    locked: 0
+  - name: New Layer 21
+    uniqueID: 1973179813
     locked: 0
