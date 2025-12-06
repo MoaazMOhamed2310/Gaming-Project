@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: a56d961c5f24c6c4d86d53a7aa78d1f9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 273
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26f4cacfe7b5574a97b2867f6028e17
+      internalID: -911640707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 272
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d91c1e02914814999c688d31c111e0
+      internalID: -661083437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 272
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f57797a770b23d40981c5ed63d05894
+      internalID: 24393485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 272
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b0f57d5c331942a4b816e50650fbc
+      internalID: -792488145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 272
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4452465c1e2f74f92e5d8db931bcc9
+      internalID: -1090204916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 177
+        width: 93
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9069f0476807f4c87755af1d7fefea
+      internalID: 1586565355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 176
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e9b6a1250b6c479513269802a0958
+      internalID: 1027269936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 176
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5256c1d1d48eb4ebb15e8a613a77db
+      internalID: -2028866857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 176
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ef0fb75118902468ca166138719352
+      internalID: 752431227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 176
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dee49bbc25beb40999785380c9b860
+      internalID: 737496997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 30
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371261219a4bdae4b9ffb65676065d69
+      internalID: 1289714878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 28
+        width: 73
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a946ed2a60a0f5408124deaf0a11633
+      internalID: -991280597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 28
+        width: 73
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa159f5a51d1065488ad0aa11fc30b80
+      internalID: 650917647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 28
+        width: 73
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b000b8b9637940bbba8afcf366508
+      internalID: 1857140727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 28
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6665a5a1e803385488aebd8babea2ea9
+      internalID: 412812338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_0: -911640707
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_5: 1586565355
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_7: -2028866857
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_1: -661083437
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_14: 412812338
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_9: 737496997
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_10: 1289714878
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_2: 24393485
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_11: -991280597
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_4: -1090204916
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_8: 752431227
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_13: 1857140727
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_12: 650917647
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_3: -792488145
+      cartoon-castle-open-gate-door-motion-animation-medieval-temple-entrance-european-palace-fortress-wooden-door-metal-302300968-removebg-preview_6: 1027269936
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
