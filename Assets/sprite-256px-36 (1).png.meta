@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 04e5c7d3321a7a547a73b1d4f2fe7934
+guid: a3b807d80c3343d47888ce9bf614d18d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,180 +105,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_0
+      name: sprite-256px-36 (1)_0
       rect:
         serializedVersion: 2
-        x: 35
-        y: 1334
-        width: 251
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2b6f23b86e2ec9845b63eacd4df8db84
-      internalID: 587313121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_1
-      rect:
-        serializedVersion: 2
-        x: 355
-        y: 1334
-        width: 247
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 903ae7bb1df38154294e33b25f555ebb
-      internalID: -1135963269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_2
-      rect:
-        serializedVersion: 2
-        x: 678
-        y: 1334
-        width: 240
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3ff31de6f4b5cba4f81d12af75aa7f18
-      internalID: 1512422684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_3
-      rect:
-        serializedVersion: 2
-        x: 997
-        y: 1333
-        width: 237
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6287777b7428cb945ba926df8abadd80
-      internalID: -465027192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_4
-      rect:
-        serializedVersion: 2
-        x: 1319
-        y: 1333
-        width: 235
-        height: 262
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9727ba93a3116d408099d3e6dbdcd50
-      internalID: -476581878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_5
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 1333
-        width: 228
-        height: 261
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf51685f9d718c74396a8ea2ed5e4fc5
-      internalID: -154454844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_6
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 1067
-        width: 224
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75728afae68f1864c976002cffed4968
-      internalID: -907017146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_7
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 1066
-        width: 224
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03b8afc06064419419effdee6c0a1e53
-      internalID: -1096886299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_8
-      rect:
-        serializedVersion: 2
-        x: 687
-        y: 1066
-        width: 222
+        x: 77
+        y: 1893
+        width: 271
         height: 255
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -287,19 +119,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 823c9fdb235708544bdaa9d71659b489
-      internalID: -935627281
+      spriteID: 364048909b5559e49aeb1c9b5eefe97a
+      internalID: 1613149478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_9
+      name: sprite-256px-36 (1)_1
       rect:
         serializedVersion: 2
-        x: 1006
-        y: 1066
-        width: 224
+        x: 436
+        y: 1893
+        width: 275
         height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -308,166 +140,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68126a111e52b7c46832dfbfa160fd64
-      internalID: 1088140475
+      spriteID: e395a90adbd731d418eaa50bcd670c44
+      internalID: -915910502
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_10
+      name: sprite-256px-36 (1)_2
       rect:
         serializedVersion: 2
-        x: 1323
-        y: 1066
-        width: 234
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c181381fa0fae1846a0e0163e3488a6f
-      internalID: 1133486294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_11
-      rect:
-        serializedVersion: 2
-        x: 1642
-        y: 1066
-        width: 239
-        height: 245
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41653a291db77714099bca8389cd3604
-      internalID: 922125525
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_12
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 802
-        width: 239
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f1b2fa3bf57df7949b03a7d18659b274
-      internalID: 598716617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_13
-      rect:
-        serializedVersion: 2
-        x: 363
-        y: 801
-        width: 235
-        height: 245
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cffdcf251c079cd489705e1e92232128
-      internalID: 1357699668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_14
-      rect:
-        serializedVersion: 2
-        x: 683
-        y: 802
-        width: 235
-        height: 243
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 990e5528afe99494a85b07f78d644e1c
-      internalID: 1196181053
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_15
-      rect:
-        serializedVersion: 2
-        x: 1002
-        y: 802
-        width: 232
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f1bdea2ed307764ba941f6d1cfba973
-      internalID: 1879615392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_16
-      rect:
-        serializedVersion: 2
-        x: 1323
-        y: 802
-        width: 230
-        height: 248
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: febab938633c2d24d82555e62b448643
-      internalID: 194563166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_17
-      rect:
-        serializedVersion: 2
-        x: 1643
-        y: 802
-        width: 235
+        x: 794
+        y: 1894
+        width: 276
         height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -476,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7084e4fa96f7a9941848111fa267c5c3
-      internalID: 1216350885
+      spriteID: e3602550d9a5b6a4f8f839be128aa8de
+      internalID: 427460497
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_18
+      name: sprite-256px-36 (1)_3
       rect:
         serializedVersion: 2
-        x: 43
-        y: 534
-        width: 239
-        height: 256
+        x: 1152
+        y: 1894
+        width: 277
+        height: 254
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f80d6549dd52c7489822b04b1e9e29b
-      internalID: 1969790450
+      spriteID: d7be449d7decb8749940e21089c7dc14
+      internalID: 784451451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_19
+      name: sprite-256px-36 (1)_4
       rect:
         serializedVersion: 2
-        x: 363
-        y: 534
-        width: 242
-        height: 255
+        x: 1514
+        y: 1895
+        width: 271
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,103 +203,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 140770527e1fd73459ef099f4823810d
-      internalID: 1388721487
+      spriteID: ea3f64597b64f244ab8f6b7de289b175
+      internalID: -1158951611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_20
+      name: sprite-256px-36 (1)_5
       rect:
         serializedVersion: 2
-        x: 683
-        y: 534
-        width: 247
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 87d3540dbceea994094a3c7f780ffcc0
-      internalID: -591395204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_21
-      rect:
-        serializedVersion: 2
-        x: 1003
-        y: 534
-        width: 258
-        height: 260
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22598fce108e8d94f8b66020a8c52f0d
-      internalID: 1732929082
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_22
-      rect:
-        serializedVersion: 2
-        x: 1322
-        y: 534
-        width: 260
-        height: 259
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d429533d6de16be48bdb33e19e4092d8
-      internalID: -1943486106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_23
-      rect:
-        serializedVersion: 2
-        x: 1641
-        y: 534
-        width: 265
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6672b48c2a95d084c95935db25fcb4e7
-      internalID: 1289235922
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_24
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 270
-        width: 268
+        x: 1872
+        y: 1894
+        width: 270
         height: 252
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -623,19 +224,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5144a607a92eb594f9cae5d3dc280868
-      internalID: -1719524195
+      spriteID: d8c9410f6fc6e614cb567ab79db33304
+      internalID: 1695267194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_25
+      name: sprite-256px-36 (1)_6
       rect:
         serializedVersion: 2
-        x: 366
-        y: 270
-        width: 268
+        x: 86
+        y: 1523
+        width: 269
         height: 251
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -644,20 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f763086b139d9bf46a97c588535647ce
-      internalID: 124333945
+      spriteID: e7ce05e3f5e4ec649b6b72fe48c472ab
+      internalID: 736907432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_26
+      name: sprite-256px-36 (1)_7
       rect:
         serializedVersion: 2
-        x: 686
-        y: 269
-        width: 272
-        height: 249
+        x: 442
+        y: 1522
+        width: 267
+        height: 253
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -665,82 +266,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 16937adcdb7ee264fa857f0258207a07
-      internalID: -1671373514
+      spriteID: 146a7008630c89c4f985398ecfd27654
+      internalID: -1172869412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_27
+      name: sprite-256px-36 (1)_8
       rect:
         serializedVersion: 2
-        x: 1002
-        y: 270
-        width: 276
-        height: 244
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e069de0363ba88747a710c2d38957ad8
-      internalID: -1211315976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_28
-      rect:
-        serializedVersion: 2
-        x: 1318
-        y: 269
-        width: 281
-        height: 246
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52360fdbfee4c5248ac445045af47b3b
-      internalID: 1890841763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_29
-      rect:
-        serializedVersion: 2
-        x: 1634
-        y: 269
-        width: 284
-        height: 244
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5cb3885eaefe1f14a85763a43ea6eee3
-      internalID: 256585538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_30
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 2
-        width: 284
+        x: 799
+        y: 1523
+        width: 263
         height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -749,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d78c8f6d40f0e3548af1f21fd32284ec
-      internalID: 323410784
+      spriteID: 24075a26157dc8544951cdeab8c508b3
+      internalID: -1884593196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_31
+      name: sprite-256px-36 (1)_9
       rect:
         serializedVersion: 2
-        x: 342
-        y: 2
-        width: 284
-        height: 252
+        x: 1156
+        y: 1523
+        width: 260
+        height: 247
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,20 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 404f4cf43f3af2841a631ee265a8a642
-      internalID: -360405340
+      spriteID: efb441652c2df724eaa7652abc1edb22
+      internalID: -1165769223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_32
+      name: sprite-256px-36 (1)_10
       rect:
         serializedVersion: 2
-        x: 662
-        y: 2
-        width: 281
-        height: 252
+        x: 1512
+        y: 1523
+        width: 254
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -791,20 +329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1abe6e9050d425b41b204833e41ed459
-      internalID: -1572670933
+      spriteID: 1abeb81cb4adfa443a37a22fcbf5a65a
+      internalID: 1974555285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_33
+      name: sprite-256px-36 (1)_11
       rect:
         serializedVersion: 2
-        x: 986
-        y: 2
-        width: 271
-        height: 256
+        x: 1869
+        y: 1523
+        width: 244
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -812,20 +350,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b14c220e0f6e0f41bda865adff14f91
-      internalID: -1420263842
+      spriteID: 19c707f13c569ab448c1430467c06df2
+      internalID: -1037305236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_34
+      name: sprite-256px-36 (1)_12
       rect:
         serializedVersion: 2
-        x: 1311
-        y: 2
-        width: 263
-        height: 256
+        x: 85
+        y: 1155
+        width: 239
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -833,20 +371,272 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a040fa99fd47e784fa22b8b387436e8b
-      internalID: -1326171674
+      spriteID: f0ff24dc2f7b8c14ab3ae7162c1a2448
+      internalID: -618054311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_35
+      name: sprite-256px-36 (1)_13
       rect:
         serializedVersion: 2
-        x: 1634
-        y: 2
+        x: 442
+        y: 1155
+        width: 235
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50baa0a7ece86b41842d849b5ddbaf6
+      internalID: -769869376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1155
+        width: 226
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c388d15d34da34096fc4d211248528
+      internalID: -1721499075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1155
+        width: 225
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f7ea1bb279fa44b083e26d4cf6dbb
+      internalID: 650921823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1155
+        width: 230
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684ad350a6d7b144987eaf5c4d98eda
+      internalID: -845672383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1155
+        width: 242
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417059e9f6848d440bca51afbf4acef8
+      internalID: -545808728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 788
+        width: 247
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb9d2fc316631d41bd9e482fdcc1256
+      internalID: -1666098139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 787
+        width: 254
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596e1a34495e9f444be5778703ad52c0
+      internalID: 1739637185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_20
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 788
+        width: 260
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4012c5c9ee61dde4a8de886a61688681
+      internalID: -86624338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 788
+        width: 261
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033f026362fc2764692367f5b65ce502
+      internalID: -864317885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 788
+        width: 259
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5306dd40ef874904bb8305861e2448ca
+      internalID: 767483577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 787
+        width: 259
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d665a8d45e0b744b937b50aa2c31301
+      internalID: -1761408175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 419
+        width: 253
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce3a572d873fa41affd0a79e8b68a5
+      internalID: -170553674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 419
         width: 252
-        height: 260
+        height: 265
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -854,8 +644,218 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e738302e3e4f1046a9724e0bb137e96
-      internalID: 669101967
+      spriteID: ce893c2e005999543bdb8bdb1bea65b7
+      internalID: -1082901182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_26
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 419
+        width: 242
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3569a0c167da954da91ca60cfccfcf5
+      internalID: -341378477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 419
+        width: 230
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af1927165c99146b49d47e5f216558
+      internalID: 1955035796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_28
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 419
+        width: 225
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740fdffdcca19f4f96c02fb42a75bb6
+      internalID: 1658524330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_29
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 419
+        width: 228
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe3d0e6cfcbac41a1927ddd625b161
+      internalID: 884857233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 234
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804758f73178f204989d1dd450038cba
+      internalID: -1164143685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_31
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 50
+        width: 244
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc24ee98da700e84e8afef1e5ba228f6
+      internalID: -1007043247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_32
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 50
+        width: 245
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b454d33886cd534cab255a27561f526
+      internalID: 1151814771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_33
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 50
+        width: 248
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffba0575aa17b94e96a6d3d5ace0620
+      internalID: -954816666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 51
+        width: 251
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650cae10bf4a8174a9d4a91a8b108ac1
+      internalID: 1569810951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-256px-36 (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 51
+        width: 250
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7abbbfc492d047ac7edc0e0665a4a
+      internalID: -1842520785
       vertices: []
       indices: 
       edges: []
@@ -871,42 +871,42 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_11: 922125525
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_3: -465027192
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_1: -1135963269
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_5: -154454844
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_22: -1943486106
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_26: -1671373514
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_0: 587313121
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_28: 1890841763
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_14: 1196181053
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_9: 1088140475
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_33: -1420263842
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_7: -1096886299
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_16: 194563166
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_13: 1357699668
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_21: 1732929082
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_20: -591395204
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_2: 1512422684
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_10: 1133486294
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_29: 256585538
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_12: 598716617
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_18: 1969790450
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_23: 1289235922
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_8: -935627281
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_19: 1388721487
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_30: 323410784
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_6: -907017146
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_15: 1879615392
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_17: 1216350885
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_31: -360405340
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_32: -1572670933
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_34: -1326171674
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_4: -476581878
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_35: 669101967
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_27: -1211315976
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_24: -1719524195
-      Side-Profile-view-of-a-Big-Water-Enemy-rendered-in-256px-36 (1)_25: 124333945
+      sprite-256px-36 (1)_17: -545808728
+      sprite-256px-36 (1)_30: -1164143685
+      sprite-256px-36 (1)_27: 1955035796
+      sprite-256px-36 (1)_1: -915910502
+      sprite-256px-36 (1)_18: -1666098139
+      sprite-256px-36 (1)_24: -170553674
+      sprite-256px-36 (1)_8: -1884593196
+      sprite-256px-36 (1)_32: 1151814771
+      sprite-256px-36 (1)_29: 884857233
+      sprite-256px-36 (1)_13: -769869376
+      sprite-256px-36 (1)_21: -864317885
+      sprite-256px-36 (1)_3: 784451451
+      sprite-256px-36 (1)_5: 1695267194
+      sprite-256px-36 (1)_10: 1974555285
+      sprite-256px-36 (1)_14: -1721499075
+      sprite-256px-36 (1)_23: -1761408175
+      sprite-256px-36 (1)_35: -1842520785
+      sprite-256px-36 (1)_4: -1158951611
+      sprite-256px-36 (1)_28: 1658524330
+      sprite-256px-36 (1)_19: 1739637185
+      sprite-256px-36 (1)_7: -1172869412
+      sprite-256px-36 (1)_12: -618054311
+      sprite-256px-36 (1)_20: -86624338
+      sprite-256px-36 (1)_25: -1082901182
+      sprite-256px-36 (1)_26: -341378477
+      sprite-256px-36 (1)_6: 736907432
+      sprite-256px-36 (1)_34: 1569810951
+      sprite-256px-36 (1)_33: -954816666
+      sprite-256px-36 (1)_0: 1613149478
+      sprite-256px-36 (1)_9: -1165769223
+      sprite-256px-36 (1)_22: 767483577
+      sprite-256px-36 (1)_2: 427460497
+      sprite-256px-36 (1)_11: -1037305236
+      sprite-256px-36 (1)_16: -845672383
+      sprite-256px-36 (1)_31: -1007043247
+      sprite-256px-36 (1)_15: 650921823
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

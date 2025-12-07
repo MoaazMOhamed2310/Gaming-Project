@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Wall
+  - Boat
+  - Pill
   layers:
   - Default
   - TransparentFX
@@ -11,9 +14,9 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Boat
+  - Enemy
+  - Player
   - 
   - 
   - 
@@ -97,4 +100,13 @@ TagManager:
     locked: 0
   - name: moneysafe
     uniqueID: 3284297595
+    locked: 0
+  - name: Enemy
+    uniqueID: 2493142569
+    locked: 0
+  - name: New Layer 21
+    uniqueID: 1973179813
+    locked: 0
+  - name: boat
+    uniqueID: 1026659071
     locked: 0

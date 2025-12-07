@@ -220,6 +220,11 @@ namespace Bundos.WaterSystem
 
                 Ripple(contactPoint, false);
             }
+            if (other.CompareTag("Player"))
+{
+    FindObjectOfType<LevelManager>().RespawnPlayer();
+}
+
         }
 
         void OnTriggerExit2D(Collider2D other)
@@ -234,5 +239,6 @@ namespace Bundos.WaterSystem
                 Ripple(contactPoint, true);
             }
         }
+       
     }
 }

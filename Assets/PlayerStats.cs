@@ -1,11 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class PlayerStats : MonoBehaviour
 {
-    public int health =4;
-    public int lives =2;
+     public static bool hasPill=false;
+    public static int health =4;
+    public static int lives =2;
     private float flickerTime=0f;
     public float flickerDuration=0.1f;
     public static int score =0;
@@ -48,13 +49,14 @@ public class PlayerStats : MonoBehaviour
             health=health-damage;
             if(health<0)
             health=0;
-            if(lives>0&&health==0){
-                FindObjectOfType<LevelManger>().RespawnPlayer();
-            }
-            else if(lives==0&&health==0){
-                Debug.Log("GameOver");
-                Destroy(this.gameObject);
-            }
+            if (lives > 0 && health == 0)
+{
+    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // reload current scene
+}
+else if (lives == 0 && health == 0)
+{
+    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex); // restart from beginning
+}
             Debug.Log("Player Health:"+health.ToString());
             Debug.Log("Player Lives:"+lives.ToString());
         }
