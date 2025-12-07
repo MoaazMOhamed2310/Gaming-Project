@@ -1,136 +1,77 @@
- using System.Collections;
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class na5no5 : MonoBehaviour
-{
- public float moveSpeed;                // How fast the player moves
-    public float jumpHeight;               // How high the player jumps
-    public KeyCode L;                      // Left key, assign in Inspector
-    public KeyCode R;                      // Right key, assign in Inspector
-    public KeyCode Spacebar;               // Jump key, assign in Inspector
-    public Transform groundCheck;          // Empty GameObject at player's feet
-    public float groundCheckRadius;        // Radius to check if grounded
-    public LayerMask whatIsGround;         // Layer for ground detection
+public class na5no5 : MonoBehaviour {
 
-    public KeyCode attackKey;              // Attack key, assign in Inspector
-    public LayerMask enemyLayer;           // Layer for enemies
-    public float attackRange;              // Automatically set based on sprite width
+    public float moveSpeed; //how fast the character moves
+    public float jumpHeight; //how high the character jumps
+    //private bool IsFacingRight; //check if player is facing right
+    public KeyCode Spacebar; //Jump is the name we gave a keyboard button we chose to be the jump button. In this case, 
+    //we chose the Space button, and called it Spacebar. To allocate the Space button to the name Spacebar, go to the Script 
+    //component of your player character, and choose Space from the dropdown list
+    public KeyCode L;//L is the name we gave a keyboard button we chose to be the left movement button.
+    public KeyCode R;//R is the name we gave a keyboard button we chose to be the right movement button.
+    public Transform groundCheck; //an invisible point in space. We use it to see if the player is touching the ground
+    public float groundCheckRadius; //a value to determine how big the circle around the player's feet is, and therefore determine how
+    //close he is to the ground
+    public LayerMask whatIsGround; //this variable stores what is considered a ground to the character
+    private bool grounded; //check if the character is standing on solid ground;
+    // Use this for initialization
 
-    private bool grounded;
     private Animator anim;
-    private Rigidbody2D rb;
-    private SpriteRenderer sr;
 
-    void Start()
-    {
+	void Start () {
         anim = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
-        sr = GetComponent<SpriteRenderer>();
-
-        // ===== ADDED =====
-        // Automatically set attack range to roughly half the player's width
-        if (sr != null)
-        {
-            attackRange = sr.bounds.size.x * 0.5f;
-        }
-        // =================
     }
+	
+	// Update is called once per frame
+	void Update () {
+       
+        if(Input.GetKeyDown(Spacebar) && grounded) //When user presses the space button ONCE
+        {
+            Jump(); //see function definition below   
+        }
+       
+        if (Input.GetKey(L)) //When user presses the left arrow button
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector2(-moveSpeed, GetComponent<Rigidbody2D>().velocity.y); 
+            //player character moves horizontally to the left along the x-axis without disrupting jump
 
-    void Update()
-    {
-        HandleMovement();
-        HandleJump();
-        HandleAttack();    // ===== ADDED ===== Attack handled inside player controller
-        UpdateAnimator();
+            if(GetComponent<SpriteRenderer>()!=null)
+            {
+                GetComponent<SpriteRenderer>().flipX = true;
+            }           
+        }
+      
+        if (Input.GetKey(R)) //When user presses the left arrow button
+        {
+            GetComponent<Rigidbody2D>().velocity = new Vector2(moveSpeed, GetComponent<Rigidbody2D>().velocity.y); 
+            //player character moves horizontally to the right along the x-axis without disrupting jump
+
+            if(GetComponent<SpriteRenderer>()!=null)
+            {
+                GetComponent<SpriteRenderer>().flipX = false;
+            }   
+        }
+
+        anim.SetFloat("Speed",Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
+        anim.SetFloat("Height", GetComponent<Rigidbody2D>().velocity.y);
+        anim.SetBool("Grounded", grounded);
+
+
     }
 
     void FixedUpdate()
     {
-        grounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
+        grounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround); //this statement calculates when 
+        //exactly the character is considered by Unity's engine to be standing on the ground. 
     }
 
-    void HandleMovement()
+    void Jump()
     {
-        float horizontalVelocity = 0f;
-
-        if (Input.GetKey(L))
-        {
-            horizontalVelocity = -moveSpeed;
-            sr.flipX = true;
-        }
-        else if (Input.GetKey(R))
-        {
-            horizontalVelocity = moveSpeed;
-            sr.flipX = false;
-        }
-
-        rb.velocity = new Vector2(horizontalVelocity, rb.velocity.y);
+        GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, jumpHeight); //player character jumps 
+        //vertically along the y-axis without disrupting horizontal walk      
     }
-
-    void HandleJump()
-    {
-        if (Input.GetKeyDown(Spacebar) && grounded)
-        {
-            rb.velocity = new Vector2(rb.velocity.x, jumpHeight);
-        }
-    }
-
-    void HandleAttack()
-    {
-        if (Input.GetKeyDown(attackKey))
-        {
-            anim.SetTrigger("Attack");
-
-            // ===== ADDED =====
-            // Detect all enemies in front within attack range
-           // Determine attack direction based on player facing
-Vector3 attackDirection = sr.flipX ? Vector3.left : Vector3.right;
-
-Collider2D[] hits = Physics2D.OverlapCircleAll(transform.position + attackDirection * (attackRange / 1.5f), attackRange, enemyLayer);
-
-            foreach (Collider2D hit in hits)
-            {
-                // Only hit enemies with EnemyHealth script
-                EnemyHealth enemyHealth = hit.GetComponent<EnemyHealth>();
-                if (enemyHealth != null)
-                {
-                    enemyHealth.TakeDamage(1); // Apply damage
-                }
-            }
-            // =================
-        }
-    }
-
-    void UpdateAnimator()
-    {
-        anim.SetFloat("Speed", Mathf.Abs(rb.velocity.x));
-        anim.SetFloat("Height", rb.velocity.y);
-        anim.SetBool("Grounded", grounded);
-    }
-
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.collider.CompareTag("Boat"))
-        {
-            transform.SetParent(collision.collider.transform);
-        }
-    }
-
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.collider.CompareTag("Boat"))
-        {
-            transform.SetParent(null);
-        }
-    }
-
-    // ===== ADDED =====
-    // Draw attack range in editor for visualization
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position + transform.right * (attackRange / 1.5f), attackRange);
-    }
-    // =================
 }

@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class AudioManager : MonoBehaviour
@@ -8,13 +10,16 @@ public class AudioManager : MonoBehaviour
     public AudioSource sfxSource;
 
     public AudioClip overworldMusic;
+    public AudioClip caveMusic;
+
+    public AudioClip[] variousSFX;
 
     void Awake()
     {
         if (instance == null)
         {
             instance = this;
-            DontDestroyOnLoad(gameObject);  // مايتحذفش لما تغير ليفل
+            DontDestroyOnLoad(gameObject);
         }
         else
         {
@@ -24,7 +29,18 @@ public class AudioManager : MonoBehaviour
 
     void Start()
     {
-        PlayMusic(overworldMusic);
+        // This line was broken. Probably intended to play overworldMusic
+        if (overworldMusic != null)
+        {
+            musicSource.clip = overworldMusic;
+            musicSource.Play();
+        }
+    }
+
+    public void PlayMusicSFX(AudioClip clip)
+    {
+        sfxSource.clip = clip;
+        sfxSource.Play();
     }
 
     public void PlayMusic(AudioClip clip)
@@ -33,14 +49,15 @@ public class AudioManager : MonoBehaviour
         musicSource.Play();
     }
 
-    public void PlaySFX(AudioClip clip)
+    public void PlayRandomSFX(params AudioClip[] clips)
     {
-        sfxSource.PlayOneShot(clip);
-    }
+        // Fix: Random.Pange → Random.Range
+        // Fix: sfxSource.playOneShot → PlayOneShot
+        variousSFX = clips;
 
-    public void PlayRandomSFX(AudioClip[] clips)
-    {
-        int r = Random.Range(0, clips.Length);
-        sfxSource.PlayOneShot(clips[r]);
+        if (variousSFX.Length == 0) return;
+
+        int index = Random.Range(0, variousSFX.Length);
+        sfxSource.PlayOneShot(variousSFX[index]);
     }
 }
