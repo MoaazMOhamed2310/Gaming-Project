@@ -4,45 +4,56 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-  public int damage = 1;
-    public float attackRange = 0.7f;
+    public int damage = 1;
+    public float attackRange = 0.5f;
     public LayerMask enemyLayer;
-    private Animator anim;
+    private float attackCooldown = 0.5f;
+    private float lastAttackTime = 0f;
+    private SpriteRenderer sr;
 
     void Start()
     {
-        anim = GetComponent<Animator>();
+        sr = GetComponent<SpriteRenderer>();
     }
 
-    void Update()
+    public void DoAttack()
     {
-        if (Input.GetKeyDown(KeyCode.F)) // choose any attack key
-        {
-            anim.SetTrigger("Attack");
-        }
-    }
+        if (Time.time - lastAttackTime < attackCooldown) return;
 
-    // Called from Animation Event
-    public void DealDamage()
-    {
-        Collider2D hit = Physics2D.OverlapCircle(transform.position + transform.right * 0.6f,
-                                                 attackRange,
-                                                 enemyLayer);
+        lastAttackTime = Time.time;
 
-        if (hit != null)
+        // Fix: Attack in the direction player is facing
+        // If sprite is flipped (facing left), attack left. If not flipped (facing right), attack right
+        Vector2 attackDirection = sr.flipX ? Vector2.left : Vector2.right;
+        Vector2 attackPosition = (Vector2)transform.position + attackDirection * 0.5f;
+
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPosition, attackRange, enemyLayer);
+
+        foreach (Collider2D enemy in hitEnemies)
         {
-            EnemyHealth enemy = hit.GetComponent<EnemyHealth>();
-            if (enemy != null)
+            EnemyController enemyController = enemy.GetComponent<EnemyController>();
+            if (enemyController != null)
             {
-                enemy.TakeDamage(damage);
+                enemyController.TakeDamage(damage);
+            }
+            else
+            {
+                WalkingEnemy walkingEnemy = enemy.GetComponent<WalkingEnemy>();
+                if (walkingEnemy != null)
+                {
+                    walkingEnemy.TakeDamage(damage);
+                }
             }
         }
     }
 
     void OnDrawGizmosSelected()
     {
+        if (sr == null) sr = GetComponent<SpriteRenderer>();
+        Vector2 attackDirection = sr.flipX ? Vector2.left : Vector2.right;
+        Vector2 attackPosition = (Vector2)transform.position + attackDirection * 0.5f;
+
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position + transform.right * 0.6f, attackRange);
+        Gizmos.DrawWireSphere(attackPosition, attackRange);
     }
 }
-

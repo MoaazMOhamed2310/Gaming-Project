@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class CollectPill : MonoBehaviour
 {
-    //public AudioClip PillSound;
+
+    public AudioClip PillSound;
 
      void OnTriggerEnter2D(Collider2D other){
         if(other.tag=="Player"){
             PlayerStats.lives++;
             PlayerStats.hasPill=true;
-            //AudioManager.Instance.PlayMusicSFX(PillSound);
+            AudioManager.instance.PlayMusicSFX(PillSound);
             Destroy(gameObject);
         }
     }

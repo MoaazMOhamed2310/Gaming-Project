@@ -21,7 +21,9 @@ public class ABShooting : MonoBehaviour
             Shooting();
         }
     }
-    public void Shooting(){
-        Instantiate(bullet,shootingPoint.position,shootingPoint.rotation);
-    }
+    public void Shooting()
+{
+    Debug.Log("SHOOT");
+    Instantiate(bullet, shootingPoint.position, shootingPoint.rotation);
+}
 }

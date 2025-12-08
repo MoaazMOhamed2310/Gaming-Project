@@ -11,7 +11,7 @@ public class PlayerBullet : MonoBehaviour
     private SpriteRenderer sr;
     private float timer=0;
     private float lifeTime=2;
-
+   public AudioClip shoot;
     // Start is called before the first frame update
     void Start()
     {
@@ -37,10 +37,12 @@ public class PlayerBullet : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D other){
         if(other.tag=="Enemy"){
-            other.GetComponent<EnemyController>().EnemyTakeDamage(damage);
+            AudioManager.instance.PlayRandomSFX(shoot);
+            other.GetComponent<EnemyController>().TakeDamage(damage);
             Destroy(gameObject);
         }
         if(other.tag=="Wall"){
+            AudioManager.instance.PlayRandomSFX(shoot);
             Destroy(gameObject);
         }
     }

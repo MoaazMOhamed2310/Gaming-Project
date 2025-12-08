@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Trap : MonoBehaviour
 {
+    public AudioClip trap;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,8 +19,9 @@ public class Trap : MonoBehaviour
 
     void OnTriggerEnter2D (Collider2D other) 
     {
-        if(other.tag == "Player")
-
-        FindObjectOfType<LevelManger>().RespawnPlayer();
+        if(other.tag == "Player"){
+        AudioManager.instance.PlayRandomSFX(trap);
+        FindObjectOfType<LevelManager>().RespawnPlayer();
+        }
     }
 }

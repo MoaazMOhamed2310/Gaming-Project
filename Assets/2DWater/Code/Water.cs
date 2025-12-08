@@ -1,15 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
-
 namespace Bundos.WaterSystem
 {
-    public class Spring
+    
+     public class Spring
     {
         public Vector2 weightPosition, sineOffset, velocity, acceleration;
     }
 
     [RequireComponent(typeof(MeshFilter), typeof(MeshRenderer))]
     public class Water : MonoBehaviour
-    {
+    { 
+        public AudioClip water;
         [Header("Dynamic Wave Settings")]
         public bool interactive = true;
         public float splashInfluence = 0.005f;
@@ -222,7 +225,9 @@ namespace Bundos.WaterSystem
             }
             if (other.CompareTag("Player"))
 {
+   
     FindObjectOfType<LevelManager>().RespawnPlayer();
+    AudioManager.instance.PlayRandomSFX(water);
 }
 
         }

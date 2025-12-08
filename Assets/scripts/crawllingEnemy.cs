@@ -2,28 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class crawllingEnemy : MonoBehaviour
+public class crawllingEnemy : EnemyController
 {
     public float moveSpeed;
     public GameObject[] wayPoints;
-
     private int nextWaypoint = 1;
     private float distToPoint;
-
-    // ---------- NEW: Enemy Health ----------
-    public int health = 3;
-
-    // ---------- NEW: Attack ----------
-    public int damage = 1;
-    public float attackRange = 0.5f;
-    public LayerMask playerLayer;
-    private float attackCooldown = 1f; // time between attacks
-    private float lastAttackTime = 0f;
 
     void Update()
     {
         Move();
-        AttackPlayer();
     }
 
     void Move()
@@ -40,62 +28,43 @@ public class crawllingEnemy : MonoBehaviour
     void TakeTurn()
     {
         Vector3 currRot = transform.eulerAngles;
-        currRot.z += wayPoints[nextWaypoint].transform.eulerAngles.z;
+        currRot.z = currRot.z + wayPoints[nextWaypoint].transform.eulerAngles.z;
         transform.eulerAngles = currRot;
         ChooseNextWaypoint();
     }
 
     void ChooseNextWaypoint()
     {
-        nextWaypoint++;
+        nextWaypoint = nextWaypoint + 1;
         if (nextWaypoint == wayPoints.Length)
         {
             nextWaypoint = 0;
         }
     }
 
-    // ---------- NEW: Attack Player ----------
-    void AttackPlayer()
-{
-    if (Time.time - lastAttackTime < attackCooldown) return;
-
-    Collider2D playerHit = Physics2D.OverlapCircle(transform.position, attackRange, playerLayer);
-    if (playerHit != null)
+    // Override to make crawling enemy take extra damage when stomped
+    public new void TakeDamage(int damage)
     {
-        PlayerStats player = playerHit.GetComponent<PlayerStats>();
-        if (player != null)
+        // Check if damage is from stomp (player above enemy)
+        Collider2D playerAbove = Physics2D.OverlapCircle(transform.position, 0.5f, LayerMask.GetMask("Player"));
+        if (playerAbove != null && playerAbove.transform.position.y > transform.position.y)
         {
-            player.TakeDamage(damage);
-            lastAttackTime = Time.time;
+            health = health - (damage * 2); // Double damage for stomp
         }
         else
         {
-            Debug.LogWarning("PlayerStats not found on the player object!");
+            health = health - damage;
         }
-    }
-}
 
-
-    // ---------- NEW: Take Damage ----------
-    public void TakeDamage(int dmg)
-    {
-        health -= dmg;
         if (health <= 0)
         {
-            Die();
+            health = 0;
         }
-    }
-
-    void Die()
-    {
-        // Optional: play death animation here
-        Destroy(gameObject);
-    }
-
-    // Optional: visualize attack range in editor
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, attackRange);
+        if (health == 0)
+        {
+            Debug.Log("Crawling Enemy Finished");
+            PlayerStats.score = PlayerStats.score + 15;
+            Destroy(gameObject);
+        }
     }
 }

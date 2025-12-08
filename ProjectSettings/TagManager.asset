@@ -7,6 +7,7 @@ TagManager:
   - Wall
   - Boat
   - Pill
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -17,7 +18,7 @@ TagManager:
   - Boat
   - Enemy
   - Player
-  - 
+  - Bullet
   - 
   - 
   - 
@@ -109,4 +110,7 @@ TagManager:
     locked: 0
   - name: boat
     uniqueID: 1026659071
+    locked: 0
+  - name: Traps
+    uniqueID: 799692199
     locked: 0
