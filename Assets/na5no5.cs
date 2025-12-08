@@ -19,7 +19,7 @@ public class na5no5 : MonoBehaviour {
     public LayerMask whatIsGround; //this variable stores what is considered a ground to the character
     private bool grounded; //check if the character is standing on solid ground;
     // Use this for initialization
-    public KeyCode F;
+
     private Animator anim;
 
 	void Start () {
@@ -55,50 +55,14 @@ public class na5no5 : MonoBehaviour {
                 GetComponent<SpriteRenderer>().flipX = false;
             }   
         }
-        if (Input.GetKeyDown(F))
-        {
-            Attack();
-        }
-        if (GetComponent<Rigidbody2D>().velocity.y < 0 && !grounded)
-        {
-            CheckStomp();
-        }
-         void Attack(){
-        anim.SetTrigger("Attack");
-        GetComponent<PlayerAttack>().DoAttack();
-    }
 
-        void CheckStomp(){
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 0.5f, LayerMask.GetMask("Enemy"));
-        if (hit.collider != null)
-        {
-            EnemyController enemy = hit.collider.GetComponent<EnemyController>();
-            if (enemy != null)
-            {
-                GetComponent<Rigidbody2D>().velocity = new Vector2(GetComponent<Rigidbody2D>().velocity.x, 10f);
-                enemy.TakeDamage(1);
-            }
-        }
-    }
         anim.SetFloat("Speed",Mathf.Abs(GetComponent<Rigidbody2D>().velocity.x));
-        anim.SetFloat("Height", GetComponent<Rigidbody2D>().velocity.y);
+        anim.SetFloat("height", GetComponent<Rigidbody2D>().velocity.y);
         anim.SetBool("Grounded", grounded);
-    }
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.collider.CompareTag("Boat"))
-        {
-            transform.SetParent(collision.collider.transform);
-        }
+
+
     }
 
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.collider.CompareTag("Boat"))
-        {
-            transform.SetParent(null);
-        }
-    }
     void FixedUpdate()
     {
         grounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround); //this statement calculates when 
@@ -111,3 +75,6 @@ public class na5no5 : MonoBehaviour {
         //vertically along the y-axis without disrupting horizontal walk      
     }
 }
+
+
+

@@ -4,21 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Wall
-  - Boat
-  - Pill
-  - Enemy
+  - na5no5
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - ground
   - Water
   - UI
-  - Boat
-  - Enemy
-  - Player
-  - Bullet
+  - liquid
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -57,30 +54,6 @@ TagManager:
   - name: New Layer 4
     uniqueID: 831460165
     locked: 0
-  - name: New Layer 5
-    uniqueID: 2824403151
-    locked: 0
-  - name: New Layer 6
-    uniqueID: 1710096055
-    locked: 0
-  - name: New Layer 7
-    uniqueID: 750463167
-    locked: 0
-  - name: New Layer 8
-    uniqueID: 4287532981
-    locked: 0
-  - name: New Layer 9
-    uniqueID: 102931617
-    locked: 0
-  - name: New Layer 10
-    uniqueID: 2481869167
-    locked: 0
-  - name: New Layer 11
-    uniqueID: 1249834507
-    locked: 0
-  - name: New Layer 12
-    uniqueID: 2434015573
-    locked: 0
   - name: New Layer 13
     uniqueID: 4204331249
     locked: 0
@@ -96,21 +69,6 @@ TagManager:
   - name: Foreground
     uniqueID: 3598140639
     locked: 0
-  - name: Player
-    uniqueID: 635134827
-    locked: 0
-  - name: moneysafe
-    uniqueID: 3284297595
-    locked: 0
-  - name: Enemy
-    uniqueID: 2493142569
-    locked: 0
-  - name: New Layer 21
-    uniqueID: 1973179813
-    locked: 0
-  - name: boat
-    uniqueID: 1026659071
-    locked: 0
-  - name: Traps
-    uniqueID: 799692199
+  - name: Background
+    uniqueID: 1524492841
     locked: 0

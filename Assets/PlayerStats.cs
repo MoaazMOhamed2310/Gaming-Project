@@ -1,16 +1,16 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-
-public class PlayerStats : MonoBehaviour
+using UnityEngine.UI;
+using TMPro;
+public class playerstats : MonoBehaviour
 {
-    public static bool hasPill = false;
-    public static int health = 4;
-    public static int lives = 2;
-    public static int score = 0;
+    public int health = 3;
+    public int lives = 3;
+public int score = 0;
     private float flickerTime = 0f;
     public float flickerDuration = 0.1f;
+    public TextMeshProUGUI scoreUI;
     private SpriteRenderer sr;
+
     public bool isImmune = false;
     private float immunityTime = 0f;
     public float immunityDuration = 1.5f;
@@ -22,15 +22,47 @@ public class PlayerStats : MonoBehaviour
 
     void Update()
     {
-        if (isImmune == true)
+        if (isImmune)
         {
             SpriteFlicker();
-            immunityTime = immunityTime + Time.deltaTime;
+            immunityTime += Time.deltaTime;
+
             if (immunityTime >= immunityDuration)
             {
                 isImmune = false;
-                sr.enabled = true;
+                sr.enabled = true; // Make sure player becomes visible again
             }
+        }
+    scoreUI.text = " " + score;
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (!isImmune)
+        {
+            health -= damage;
+
+            if (health < 0)
+                health = 0;
+
+            // Respawn if health reaches zero
+            if (lives > 0 && health == 0)
+            {
+                FindObjectOfType<LevelManger>().RespawnPlayer();
+                health = 3;
+                lives--;
+            }
+            else if (lives == 0 && health == 0)
+            {
+                Debug.Log("Game Over");
+                Destroy(this.gameObject);
+            }
+
+            Debug.Log("Player Health: " + health);
+            Debug.Log("Player Lives: " + lives);
+
+            isImmune = true;
+            immunityTime = 0f;
         }
     }
 
@@ -38,38 +70,12 @@ public class PlayerStats : MonoBehaviour
     {
         if (flickerTime < flickerDuration)
         {
-            flickerTime = flickerTime + Time.deltaTime;
+            flickerTime += Time.deltaTime;
         }
-        else if (flickerTime >= flickerDuration)
+        else
         {
-            sr.enabled = !(sr.enabled);
-            flickerTime = 0;
+            sr.enabled = !sr.enabled;
+            flickerTime = 0f;
         }
-    }
-
-    public void TakeDamage(int damage)
-    {
-        if (isImmune == false)
-        {
-            health = health - damage;
-            if (health < 0)
-                health = 0;
-
-            if (lives > 0 && health == 0)
-            {
-                lives = lives - 1;
-                health = 4;
-                transform.position = new Vector3(0, 0, 0);
-            }
-            else if (lives == 0 && health == 0)
-            {
-                UnityEngine.SceneManagement.SceneManager.LoadScene(0);
-            }
-
-            Debug.Log("Player Health: " + health.ToString());
-            Debug.Log("Player Lives: " + lives.ToString());
-        }
-        isImmune = true;
-        immunityTime = 0f;
     }
 }
