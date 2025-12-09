@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: c1ad790e964a1bc43a668c81c96e5835
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1095
+        width: 258
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4621a9ea2236f24f99c3ac7554dd3a6
+      internalID: -1275409075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1095
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151e10f055b6a034ba0b606f4ab3d784
+      internalID: -1497753213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1095
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7350eb91742f41974966185e8b930
+      internalID: 582425733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1095
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffe457d2d7be0444b65547cd41a6be8
+      internalID: -956781103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1095
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba09b55894405db44a583891fd7348e9
+      internalID: 905525213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_5
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1095
+        width: 261
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07aeb1960ed6544cbb9515e9a5d4da8
+      internalID: 454077690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 258
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab95c9ba41f07b479176ad5b31cc78d
+      internalID: -2112402041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 876
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125c16ad0adcba141a27e7bf5505b396
+      internalID: -1204787907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 876
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4821085c498be44bdf0bac03a84ea1
+      internalID: 692697283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 876
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e093dd2a56ab24994d1de005fd0c57
+      internalID: -1138425655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_10
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 876
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3e1c003762b74a877864e1535a0dc
+      internalID: 699870904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_11
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 876
+        width: 261
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2242a13d31a491f4082252b41d39854f
+      internalID: -964767040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 258
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 24, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f8c2564a7a65e45b69aa55a7b9016f
+      internalID: -1097878643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 657
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9ebf991ffb9e46b24a48c8239163c
+      internalID: 392453572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 657
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abde60d6b30b15c4c981c719b3ff0194
+      internalID: 395748142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 657
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087362ab1de28064fb4d317341a6cf1a
+      internalID: 1356243630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_16
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 657
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8125ced8058a4b64d8ada2ffa5c66b3f
+      internalID: -196668453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_17
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 657
+        width: 261
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a58ab81c3ef3e645920080e620b7d69
+      internalID: 1837280533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 258
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8be012edc2db642a7ac308155bed85
+      internalID: 789958241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 438
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41c1136da2c90a4f83882b62d269c25
+      internalID: 711930584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_20
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 438
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79235e59f7b5f041b162cceee995f80
+      internalID: -1055708024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_21
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 438
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa213a3206af840943d9da7e9213f5
+      internalID: -1917942610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_22
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 438
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d235ea262bc085544a1dfa1fe0abe899
+      internalID: -1842583855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_23
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 438
+        width: 261
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78f368ec4517c945927246dea5eabee
+      internalID: -14091931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 258
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca2d3d14e716e2448a92e49c633ae97
+      internalID: -10591549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 219
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b37ec97b398cf44f932f4d2c977a521
+      internalID: -1068304768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 219
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc1a2e0055e4945a13e9838b5ba022
+      internalID: 1338110465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 219
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8834737d94dc6646a84b21d23ec33f1
+      internalID: -400753661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_28
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 219
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac70bb5a35c37b459937f4929de1bc4
+      internalID: -813918102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_29
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 219
+        width: 261
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaca80277ef03d4eaddf37518cd8c9d
+      internalID: -409280862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 258
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b07086d75491054388a65ef0a4aea4d
+      internalID: 766258386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1dd9ffc3b37384087a0db7d83be477
+      internalID: 440858178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eef1a5c87504245b294efa9309a2c1
+      internalID: -382822072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_33
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb702219f4aee49b1bfc7aef40bc65
+      internalID: 657864551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_34
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 259
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38049641a07dd8549a0eeaffe119c526
+      internalID: 890298622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_35
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 0
+        width: 261
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debfae457b35be4aaa848a5bda8c189
+      internalID: 1451239600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_9: -1138425655
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_12: -1097878643
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_14: 395748142
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_18: 789958241
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_26: 1338110465
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_7: -1204787907
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_31: 440858178
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_35: 1451239600
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_1: -1497753213
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_32: -382822072
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_33: 657864551
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_25: -1068304768
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_22: -1842583855
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_6: -2112402041
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_13: 392453572
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_17: 1837280533
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_34: 890298622
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_19: 711930584
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_11: -964767040
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_20: -1055708024
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_0: -1275409075
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_27: -400753661
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_24: -10591549
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_23: -14091931
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_5: 454077690
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_21: -1917942610
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_28: -813918102
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_30: 766258386
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_2: 582425733
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_15: 1356243630
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_4: 905525213
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_8: 692697283
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_10: 699870904
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_16: -196668453
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_29: -409280862
+      This-is-a-front-facing-highly-detailed-32-bit-pixe-256px-36_3: -956781103
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
